@@ -1,1 +1,1 @@
-Ce projet à été construit et conserver en intégralité sur Github directement. Vous pouvez retrouver l'ensemble des documents dans [le répertoire dédié au projet](https://github.com/Haelios/Projet_7_OC).
+Ce projet à été construit et conserver en intégralité sur Github directement. Vous pouvez retrouver l'ensemble des documents, ainsi que la présentation détaillée du projet dans [le répertoire dédié au projet](https://github.com/Haelios/Projet_7_OC).
